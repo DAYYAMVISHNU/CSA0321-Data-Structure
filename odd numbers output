@@ -1,0 +1,5 @@
+Enter the size of the array: 5
+Enter 5 elements:
+45 7 9 3
+Odd
+numbers in odd indices are: 5 9
